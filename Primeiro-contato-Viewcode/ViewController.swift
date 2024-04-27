@@ -77,7 +77,7 @@ class ViewController: UIViewController {
     
     // Função para clicar no botão
     @objc func didTapButtonOne() {
-         var cores: [UIColor] = [
+        let cores: [UIColor] = [
             UIColor.red,
             UIColor.blue,
             UIColor.green,
